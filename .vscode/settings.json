@@ -1,0 +1,7 @@
+{
+    "go.lintOnSave": "file",
+    "thunder-client.httpVersion": "HTTP/2",
+    "thunder-client.saveToWorkspace": true,
+    "thunder-client.saveRequestOnSend": true,
+    "thunder-client.workspaceRelativePath": ""
+}
